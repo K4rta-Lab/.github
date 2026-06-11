@@ -11,11 +11,11 @@ La comunidad vota qué cartas se añaden al juego, y cada temporada trae nuevos 
 
 | Repo | Descripción |
 |---|---|
-| [k4rta-core](../k4rta-core) | Backend principal — Spring Boot 3, Java 21 |
-| [k4rta-generator](../k4rta-generator) | Generador de sobres — Rust, RNG auditado |
+| [k4rta-core](https://github.com/K4rta-Lab/k4rta-core) | Backend principal — Spring Boot 3, Java 21 |
+| [k4rta-generator](https://github.com/K4rta-Lab/k4rta-generator) | Generador de sobres — Rust, RNG auditado |
 | k4rta-android | App Android — Kotlin + Jetpack Compose |
 | k4rta-web | Cliente web — React + TypeScript *(fase 3)* |
-| [k4rta-docs](../k4rta-docs) | Documentación completa del proyecto |
+| [k4rta-docs](https://github.com/K4rta-Lab/k4rta-docs) | Documentación completa del proyecto |
 
 ---
 
