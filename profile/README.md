@@ -31,5 +31,5 @@ La comunidad vota qué cartas se añaden al juego, y cada temporada trae nuevos 
 
 ## Links
 
-- 📖 [Documentación](../k4rta-docs)
+- 📖 [Documentación](https://k4rta-lab.github.io/k4rta-docs/)
 - 💬 Discord — *próximamente*
